@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#08360A",
+        "titleBar.activeBackground": "#0B4B0D",
+        "titleBar.activeForeground": "#F3FDF3"
+    }
+}
+
+
+
+
+<header class="d-flex justify-content-center  ">
+<div class="card container-fluid mb-2 ">
+    <div class="card-header bg-danger">
+        MIGLIOR COMPRAVENDITA DI SNEAKERS
+    </div>
+    <div class="card-body d-flex flex-column align-items-center bg-danger bg-opacity-50 ">
+        <h1 class="card-title ">ACQ NON CI DIMENTICHERAI PIU'</h1>
+        <p class="card-text">La nostra politica è ."soddisfatti o rimborsati". Viviamo per il benestare del cliente</p>
+        
+    </div>
+</div>
+
+</header>
